@@ -1,0 +1,3 @@
+- 👋 Hi, I’m pravin
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning
